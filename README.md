@@ -22,3 +22,4 @@ pip install requests
 
 # Запуск
 python sms_bomber.py
+```
