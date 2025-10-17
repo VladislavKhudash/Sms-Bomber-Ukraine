@@ -23,4 +23,6 @@ pip install requests
 # Запуск
 python sms_bomber.py
 ```
+
+<br>
 ![sms_bomber](sms_bomber.png)
