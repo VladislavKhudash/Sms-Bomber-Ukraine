@@ -15,7 +15,7 @@ sms_bomber — отправляет СМС на украинский номер 
 
 ```bash
 # Клонируй репозиторий
-https://github.com/VladislavKhudash/Sms-Bomber-Ukraine.git
+git clone https://github.com/VladislavKhudash/Sms-Bomber-Ukraine.git
 
 # Установи зависимости
 pip install -r requirements.txt
