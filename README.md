@@ -24,6 +24,6 @@ pip install requests
 python sms_bomber.py
 ```
 
-<br>
+<br><br>
 
 ![sms_bomber](sms_bomber.png)
