@@ -23,7 +23,7 @@ sms bomber — отправляет СМС на украинский номер 
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/VladislavKhudash/Sms-Bomber-Ukraine.git
+git clone https://github.com/cppandpython/sms_bomber_ukraine.git
 
 # Установи зависимости
 pip install requests
